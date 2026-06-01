@@ -507,7 +507,7 @@ export const HoroscopeChart: React.FC<HoroscopeChartProps> = ({
 
             {/* Small credit foot */}
             <p className="text-[9px] text-center text-stone-400 italic mt-2 self-center">
-              Lập lá số Tử Vi Đẩu Số bởi Công nghệ Bản Mệnh AI & TuviGLOBAL
+              Lập lá số Tử Vi An bởi Công nghệ Bản Mệnh AI & TuviGLOBAL
             </p>
           </div>
 

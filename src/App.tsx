@@ -287,7 +287,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-lg font-black tracking-wider flex items-center gap-2">
-                TỬ VI ĐẨU SỐ <span className="text-[10px] bg-red-600 px-1.5 py-0.5 rounded text-white tracking-widest font-bold">BẢN MỆNH AI</span>
+                TỬ VI AN <span className="text-[10px] bg-red-600 px-1.5 py-0.5 rounded text-white tracking-widest font-bold">BẢN MỆNH AI</span>
               </h1>
               <p className="text-[10px] text-stone-400 font-medium">
                 Tính toán Lịch Học chính xác theo TuviGLOBAL & Múi giờ Lịch sử VN • <span className="text-amber-400 font-bold tracking-wider font-mono">by khackhoa</span>
@@ -482,7 +482,7 @@ export default function App() {
             <div className="text-[10px] text-stone-400 leading-normal p-2.5 bg-stone-50 dark:bg-neutral-950 rounded-lg border border-stone-200 dark:border-neutral-800 flex items-start gap-1.5">
               <Info className="w-4 h-4 text-indigo-600 shrink-0 mt-0.5" />
               <p>
-                <strong>Tử Vi Đẩu Số</strong> là khoa lập pháp nghiên cứu chu kỳ tinh tú. Sự chính xác của giờ Tý biên cải theo từng tháng âm lịch chính là tinh hoa cốt tủy loại bỏ sai sót mà TuviGLOBAL đề xướng và KhacKhoa nâng cấp.
+                <strong>Tử Vi An</strong> là khoa lập pháp nghiên cứu chu kỳ tinh tú. Sự chính xác của giờ Tý biên cải theo từng tháng âm lịch chính là tinh hoa cốt tủy loại bỏ sai sót mà TuviGLOBAL đề xướng và KhacKhoa nâng cấp.
               </p>
             </div>
           </div>
@@ -552,7 +552,7 @@ export default function App() {
       <footer className="max-w-7xl mx-auto px-4 mt-16 pt-8 pb-12 border-t border-stone-250/60 dark:border-neutral-800/80 text-center text-xs text-stone-400 dark:text-neutral-500">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-semibold tracking-wide text-stone-500 dark:text-neutral-400">
-            ỨNG DỤNG TỬ VI ĐẨU SỐ BẢN MỆNH AI © 2026
+            ỨNG DỤNG TỬ VI AN BẢN MỆNH AI © 2026
           </p>
           <p className="flex items-center gap-1.5 font-sans font-medium text-stone-500 dark:text-neutral-400">
             <span>Thiết kế & Phát triển:</span>
